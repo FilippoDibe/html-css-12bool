@@ -1,0 +1,37 @@
+
+[class*="col-"]{
+    background-color: rgb(46, 111, 242);
+    border:1px solid white;
+    color: white;
+    padding:15px;
+    text-align: center;
+}
+[class*="col-offset-"]{
+    background-color: rgb(46, 111, 242);
+    border:1px solid white;
+    color: white;
+    padding:15px;
+    text-align: center;
+}
+.titolo{
+    background-color: white;
+    color:black;
+    padding:0;
+    text-align: start;
+}
+.nasted{
+    display: flex;
+    
+}
+ .nasted div{ 
+    background-color: rgb(53, 181, 36);
+    border:none;
+    font-size: 10px;
+    margin:1px
+}
+.space{
+    width: 100%;
+}
+.space div{
+    background-color: white;
+}
